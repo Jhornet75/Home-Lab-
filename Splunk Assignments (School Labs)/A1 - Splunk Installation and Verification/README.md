@@ -1,6 +1,3 @@
-<img width="169" height="150" alt="download" src="https://github.com/user-attachments/assets/9d241416-52cc-409d-9689-ef280bb47965" />
-
-
 <h1 align="center">
 A1 | Splunk Enterprise<br>
 Deployment and Log Ingestion
@@ -17,6 +14,10 @@ Cyber Defense and Analysis — CYDA 420
 </p>
 
 <hr>
+
+
+<img width="169" height="150" alt="download" src="https://github.com/user-attachments/assets/9d241416-52cc-409d-9689-ef280bb47965" />
+
 
 01. Project Overview
 
