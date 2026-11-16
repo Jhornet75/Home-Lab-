@@ -1,1 +1,1 @@
-
+A collection of hands-on Splunk labs completed throughout my Bachelor's in Cyber Defense and Analysis. This section documents my experience with SIEM deployment, log ingestion, SPL queries, CIM normalization, threat detection, and troubleshooting within my Proxmox homelab. The goal is to apply what I learn in school to practical cybersecurity and security monitoring environments.
