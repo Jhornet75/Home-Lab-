@@ -22,6 +22,8 @@ Cyber Defense and Analysis — CYDA 420
 </p>
 
 
+
+
 01. Project Overview
 
 For this project, I deployed Splunk Enterprise within my Proxmox homelab to establish a centralized security monitoring environment.
