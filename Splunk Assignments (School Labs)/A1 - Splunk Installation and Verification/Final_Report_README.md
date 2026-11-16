@@ -23,6 +23,6 @@ interpretation.
 
 ## Original Assignment
 
-[View Full Academic Report (PDF)](<./lab_assignment_01_ collection_architecture_design(1).pdf>)
+[View Full Academic Report (PDF)](<./lab_assignment_01_ collection_architecture_design.pdf>)
 
 ---
